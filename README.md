@@ -1,4 +1,4 @@
-![Screenshot 2025-05-01 184310](https://github.com/user-attachments/assets/411c4078-0fc4-4730-a2da-e24da9dd6b4e)Click This to Check the End result:  https://saloni222444.github.io/Portfolio/
+Click This to Check the End result:  https://saloni222444.github.io/Portfolio/
 
 ## 📸 Portfolio Previews
 
