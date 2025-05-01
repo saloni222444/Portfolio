@@ -1,3 +1,17 @@
+Click This to Check the End result:  https://saloni222444.github.io/Portfolio/
+
+## 📸 Portfolio Previews
+
+### 🏠 Homepage
+![Homepage](![Screenshot 2025-05-01 184230](https://github.com/user-attachments/assets/e1429934-2fa4-4fdb-b45a-b7253ebecd85))
+
+### 👩‍💻 About Me
+![About Me](./assets/about.png)
+
+### 💼 Projects Section
+![Projects](./assets/projects.png)
+
+
 🌐 Saloni's Portfolio Website
 Welcome to my personal portfolio website – a digital reflection of my journey as a tech enthusiast, developer, and creative learner.
 
