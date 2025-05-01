@@ -3,12 +3,12 @@ Click This to Check the End result:  https://saloni222444.github.io/Portfolio/
 ## 📸 Portfolio Previews
 
 
-### 🏠 Homepage(![Screenshot 2025-05-01 184230](https://github.com/user-attachments/assets/e1429934-2fa4-4fdb-b45a-b7253ebecd85)
+### 🏠 Homepage![Screenshot 2025-05-01 184230](https://github.com/user-attachments/assets/e1429934-2fa4-4fdb-b45a-b7253ebecd85)
 
-### 👩‍💻 About Me(![Screenshot 2025-05-01 184245](https://github.com/user-attachments/assets/d4a7a65d-b83b-45df-a579-d13f93653bf0)
+### 👩‍💻 About Me![Screenshot 2025-05-01 184245](https://github.com/user-attachments/assets/d4a7a65d-b83b-45df-a579-d13f93653bf0)
 
 
-### 💼 Services(![Screenshot 2025-05-01 184310](https://github.com/user-attachments/assets/93cd67eb-ad31-40d1-8831-3067a2c25a22)
+### 💼 Services![Screenshot 2025-05-01 184310](https://github.com/user-attachments/assets/93cd67eb-ad31-40d1-8831-3067a2c25a22)
 
 
 🌐 Saloni's Portfolio Website
